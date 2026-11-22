@@ -1,0 +1,1 @@
+This is a demo project to test the quick-pass-cli package. Run npx quick-pass-cli in the terminal to see it work.
